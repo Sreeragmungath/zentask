@@ -4,4 +4,4 @@ free -h
 echo "Disk Utilization:"
 df -h
 echo "Hello, Webhook enabled"
-echo "Email Notification enabled"
+echo "Email Notification Enabled"
